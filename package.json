@@ -5,7 +5,9 @@
   "scripts": {
     "start": "nx serve",
     "build": "nx build",
-    "test": "nx test"
+    "test": "nx affected --target=test --coverage --parallel=false",
+    "lint": "nx affected --target=lint --quiet",
+    "ci": "concurrently npm:test npm:lint npm:build"
   },
   "private": true,
   "dependencies": {
@@ -44,6 +46,7 @@
     "@types/node": "16.11.7",
     "@typescript-eslint/eslint-plugin": "^5.58.0",
     "@typescript-eslint/parser": "^5.58.0",
+    "concurrently": "^8.0.1",
     "cypress": "^12.11.0",
     "eslint": "~8.15.0",
     "eslint-config-prettier": "8.1.0",
