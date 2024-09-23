@@ -1,0 +1,22 @@
+[NX Daemon Server] - 2024-09-23T11:53:49.510Z - Started listening on: \\.\pipe\nx\C:\Users\rober\AppData\Local\Temp\065382a07668bffde0f5\d.sock
+[NX Daemon Server] - 2024-09-23T11:53:49.511Z - [WATCHER]: Subscribed to changes within: C:\Users\rober\WebstormProjects\daemon-process-terminated-reprod (native)
+[NX Daemon Server] - 2024-09-23T11:53:49.516Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-09-23T11:53:49.517Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-09-23T11:53:49.518Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-09-23T11:53:49.519Z - [REQUEST]: Responding to the client. Shutdown initiated
+[NX Daemon Server] - 2024-09-23T11:53:49.519Z - Done responding to the client Shutdown initiated
+[NX Daemon Server] - 2024-09-23T11:53:49.520Z - Handled FORCE_SHUTDOWN. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-09-23T11:53:49.520Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-09-23T11:53:49.520Z - [WATCHER]: Stopping the watcher for C:\Users\rober\WebstormProjects\daemon-process-terminated-reprod (sources)
+[NX Daemon Server] - 2024-09-23T11:53:49.520Z - [WATCHER]: Stopping the watcher for C:\Users\rober\WebstormProjects\daemon-process-terminated-reprod (outputs)
+[NX Daemon Server] - 2024-09-23T11:53:52.369Z - Started listening on: \\.\pipe\nx\C:\Users\rober\AppData\Local\Temp\065382a07668bffde0f5\d.sock
+[NX Daemon Server] - 2024-09-23T11:53:52.371Z - [WATCHER]: Subscribed to changes within: C:\Users\rober\WebstormProjects\daemon-process-terminated-reprod (native)
+[NX Daemon Server] - 2024-09-23T11:53:52.380Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-09-23T11:53:52.381Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-09-23T11:53:52.381Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-09-23T11:53:52.382Z - [REQUEST]: Responding to the client. Shutdown initiated
+[NX Daemon Server] - 2024-09-23T11:53:52.382Z - Done responding to the client Shutdown initiated
+[NX Daemon Server] - 2024-09-23T11:53:52.383Z - Handled FORCE_SHUTDOWN. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-09-23T11:53:52.395Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-09-23T11:53:52.395Z - [WATCHER]: Stopping the watcher for C:\Users\rober\WebstormProjects\daemon-process-terminated-reprod (sources)
+[NX Daemon Server] - 2024-09-23T11:53:52.395Z - [WATCHER]: Stopping the watcher for C:\Users\rober\WebstormProjects\daemon-process-terminated-reprod (outputs)
